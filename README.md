@@ -41,5 +41,8 @@ flutter build apk
 Then, your `apk` file will be created at `build/app/outputs/flutter-apk/ap
 p-release.apk` and ready to be installed on physical devices.
 
+## Event Documentation
 
+The full recording of this tech talk can be accessed [**here**](https://drive.google.com/file/d/1nqYQX8oMEE6w9LGxQ0nr5_OD35A_Ht1w/view?usp=drive_link)
 
+Thank you :)
